@@ -2,3 +2,4 @@ hello world!
 hello git!
 hello github!
 i am so happy with the first use git!
+quickly and simple
